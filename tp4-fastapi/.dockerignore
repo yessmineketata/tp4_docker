@@ -1,0 +1,36 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+# Environnement virtuel
+venv/
+env/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.coverage
+*.log
+# Git
+.git
+.gitignore
+.mypy_cache
+.pytest_cache
+.hypothesis
+# Docker
+Dockerfile
+.dockerignore
+
+# Fichiers locaux de configuration
+*.env
+*.log
+*.sqlite3
+.tox
+# Fichiers IDE
+.vscode/
+.idea/
+*.swp
